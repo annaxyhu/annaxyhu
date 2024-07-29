@@ -5,9 +5,9 @@ Hey there! 👋 I'm Anna, a Mechatronics Engineering and Management graduate fro
 TBD
 
 ### 🔧 Tools
-Languages: Python, R, SQL, C
+Languages: SQL, Python, R, C
 
-Tools: Tableau, Excel, MATLAB
+Tools: Excel, Tableau, MATLAB
 
 Other Skills: Data Visualization, Machine Learning, Statistical Analysis, Product Management
 
