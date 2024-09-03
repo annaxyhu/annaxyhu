@@ -1,6 +1,7 @@
 ## Welcome! 🌟
-Hey there! 👋 I'm Anna, a Mechatronics Engineering and Management graduate from McMaster University. I specialize in bridging the gap between engineering and business with a strong focus on data and business analytics.
+Hey there! 👋 I'm Anna, a Mechatronics Engineering and Management graduate from McMaster University. I specialize in bridging the gap between engineering and business with a strong focus on analytics.
 
+<!--
 ### 📚 My Projects
 TBD
 
@@ -14,7 +15,7 @@ Other Skills: Data Visualization, Machine Learning, Statistical Analysis, Produc
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/annaxyhu/)
 
-<!--
+
 **annaxyhu/annaxyhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
